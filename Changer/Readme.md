@@ -3,6 +3,7 @@
 - 한국어 높임말/반말 변형 알고리즘
 
 # Structure
+
 ├── Changer
 │   ├── Readme.md
 │   ├── __pycache__
@@ -26,4 +27,4 @@
 - python 3.6 + 
 
 # Useages
-'''bash test.py 
+python test.py 
