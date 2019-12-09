@@ -28,7 +28,7 @@ class Changer(object):
         change formal speech to informal
         Args : str
         """
-        pattern = r'하세요|이예요|이에요|에요|예요|시겠어요|죠'
+        pattern = r'하세요|이예요|이에요|에요|예요|시겠어요|죠|합니까|습니까'
         pattern = re.compile(pattern)
 
         result = []
