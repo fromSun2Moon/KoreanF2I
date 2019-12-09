@@ -4,6 +4,7 @@
 - 한국어 문장을 높임말 또는 반말로 바꾸어주는 알고리즘입니다. 
 
 # Structure
+<pre><code>
 .
 ├── Changer
 │   ├── __pycache__
@@ -23,6 +24,7 @@
 │   └── utils.py
 └── LICENSE
 
+</code></pre>
 
 # Usages
 python test.py
