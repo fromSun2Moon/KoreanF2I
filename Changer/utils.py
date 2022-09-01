@@ -1,7 +1,3 @@
-__author__ = 'Sanhee Park'
-__email__ = 'gteasan@gmail.com'
-__version__ = '0.0.1'
-
 import re
 
 class Utils(object):

@@ -1,6 +1,6 @@
 __author__ = 'Sanhee Park'
-__email__ = 'gteasan@gmail.com'
-__version__ = '0.0.1'
+__email__ = 'carpediembackup20@gmail.com'
+__version__ = '1.0.1'
 __refer__ = 'Chanwoo Yoon'
 
 import re
@@ -9,7 +9,7 @@ import hgtk
 from tqdm.auto import tqdm
 
 from kiwipiepy import Kiwi
-from dictionary import informaldic, formaldic, abnormaldic
+from kdictionary import informaldic, formaldic, abnormaldic
 from utils import Utils
 
 class Changer(object):
